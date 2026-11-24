@@ -1,0 +1,6 @@
+
+Finding ID,Security Area,Description,Severity,Recommendation,Status
+AWS-001,IAM,Excessive permissions,Pending,Apply least privilege,Not assessed
+AWS-002,S3,Public access configuration,Pending,Review public access settings,Not assessed
+AWS-003,CloudTrail,Logging configuration,Pending,Review audit logging,Not assessed
+AWS-004,Security Groups,Unnecessary inbound access,Pending,Restrict inbound rules,Not assessed
